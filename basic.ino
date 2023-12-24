@@ -11,6 +11,7 @@
  @author Michal Kowalewski
  @license BSD-3 use as you want and be happy.
  @git https://github.com/pazitka/arduino_7seg_WS2812b
+ @project simulation: https://wokwi.com/projects/384990723567618049
 
 */
 
